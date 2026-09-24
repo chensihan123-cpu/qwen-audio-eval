@@ -1,0 +1,18 @@
+{
+  "seed": 20260924,
+  "source_url": "https://huggingface.co/datasets/hf-internal-testing/librispeech_asr_dummy/resolve/refs%2Fconvert%2Fparquet/clean/validation/0000.parquet",
+  "source_bytes": 9192059,
+  "source_sha256": "4e69a06fa5edc90921e5e7e39a7084881f8b3ed9c805c574f4f39c6fde27c603",
+  "source_rows": 73,
+  "selected_recordings": [
+    "1272-128104-0000",
+    "1272-141231-0022",
+    "1272-141231-0030",
+    "1272-141231-0010",
+    "1272-141231-0028",
+    "1272-141231-0001"
+  ],
+  "n": 24,
+  "split_unit": "original recording (same speaker may occur across splits)",
+  "limitations": "No Chinese; no manually audited real-world non-speech; synthetic supplements; same-speaker leakage limits generalization"
+}

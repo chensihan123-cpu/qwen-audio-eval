@@ -1,0 +1,57 @@
+{
+  "config": {
+    "mode": "transcription",
+    "frozen": false,
+    "model": {
+      "id": "Qwen/Qwen-Audio-Chat",
+      "revision": "8b1c0dc720d34da5498f93535f416e3590bf3a71",
+      "precision": "bf16",
+      "device_map": "cuda",
+      "local_files_only": true
+    },
+    "preprocess": {
+      "sample_rate": 16000,
+      "channels": 1,
+      "decoder": "ffmpeg s16le",
+      "max_duration_s": 30,
+      "denoise": false,
+      "normalize_loudness": false
+    },
+    "generation": {
+      "do_sample": false,
+      "num_beams": 1,
+      "max_new_tokens": 256,
+      "min_new_tokens": 0,
+      "repetition_penalty": 1.0,
+      "use_cache": true,
+      "top_k": 0,
+      "top_p": 1.0
+    },
+    "vad": {
+      "threshold": 0.7,
+      "min_speech_duration_ms": 250,
+      "min_silence_duration_ms": 100,
+      "speech_pad_ms": 30
+    },
+    "prompts": {
+      "A": "请转写这段音频中的语音。",
+      "B": "请逐字转写音频中可辨识的语音，仅输出转写文本，不翻译、不解释，不补全未听到的内容。没有可辨识语音时仅输出 [NO_SPEECH]。"
+    },
+    "prompt_candidates": [
+      "请逐字转写音频中可辨识的语音，仅输出转写文本，不翻译、不解释，不补全未听到的内容。没有可辨识语音时仅输出 [NO_SPEECH]。",
+      "Transcribe only intelligible speech verbatim, in its original language. Do not describe sounds or add explanations. If no intelligible speech is present, output exactly [NO_SPEECH]."
+    ],
+    "normalization": "v1: NFKC, casefold, Unicode punctuation to space; zh remove whitespace and score characters; en split whitespace; retain digits without expansion; exact stripped [NO_SPEECH] only",
+    "selection_status": "B is provisional, not selected by model evidence; no test model results allowed until dev selection"
+  },
+  "started_utc": "2026-09-24T13:02:21.145944+00:00",
+  "load_error": null,
+  "model_load_s": null,
+  "warmup_s": null,
+  "vad_version": {
+    "version": "6.2.0",
+    "onnx_sha256": "1a153a22f4509e292a94e67d6f9b85e8deb25b4988682b7e174c65279d8788e3"
+  },
+  "execution": "vad_only",
+  "performance": false
+}

@@ -1,0 +1,7 @@
+{
+  "status": "success_no_weights_no_forward",
+  "parameters": 8394302464,
+  "bf16_weight_bytes": 16788604928,
+  "fp32_weight_bytes": 33577209856,
+  "note": "Meta device only: verifies construction/import, NOT inference, offload, or quantization"
+}

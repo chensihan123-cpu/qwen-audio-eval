@@ -1,0 +1,248 @@
+{
+  "A": {
+    "n": 8,
+    "completion_rate": 0.0,
+    "status_counts": {
+      "model_unavailable": 8
+    },
+    "conservative_quality": {
+      "en": {
+        "S": 0,
+        "D": 111,
+        "I": 0,
+        "N": 111,
+        "error_rate": 1.0
+      }
+    },
+    "quality_claim_allowed": false,
+    "vad_false_reject_rate": 0.0,
+    "speech_empty_rate": 1.0,
+    "non_speech_output_rate_observed": 0.0,
+    "non_speech_output_rate_upper": 1.0,
+    "performance_valid": false,
+    "workload_diagnostic": {
+      "n": 8,
+      "audio_seconds": 49.615,
+      "median_s": 0.04376935001346283,
+      "p95_s": 0.05189277500030584,
+      "rtf": 0.007221991333115261,
+      "peak_gpu_bytes": null
+    },
+    "model_called_diagnostic": {
+      "n": 0,
+      "audio_seconds": 0,
+      "median_s": null,
+      "p95_s": null,
+      "rtf": null,
+      "peak_gpu_bytes": null
+    },
+    "by_condition": {
+      "edge_silence": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "low_volume": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "original": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      }
+    }
+  },
+  "B": {
+    "n": 8,
+    "completion_rate": 0.0,
+    "status_counts": {
+      "model_unavailable": 8
+    },
+    "conservative_quality": {
+      "en": {
+        "S": 0,
+        "D": 111,
+        "I": 0,
+        "N": 111,
+        "error_rate": 1.0
+      }
+    },
+    "quality_claim_allowed": false,
+    "vad_false_reject_rate": 0.0,
+    "speech_empty_rate": 1.0,
+    "non_speech_output_rate_observed": 0.0,
+    "non_speech_output_rate_upper": 1.0,
+    "performance_valid": false,
+    "workload_diagnostic": {
+      "n": 8,
+      "audio_seconds": 49.615,
+      "median_s": 0.03495420003309846,
+      "p95_s": 0.04183670002094004,
+      "rtf": 0.005747874636108445,
+      "peak_gpu_bytes": null
+    },
+    "model_called_diagnostic": {
+      "n": 0,
+      "audio_seconds": 0,
+      "median_s": null,
+      "p95_s": null,
+      "rtf": null,
+      "peak_gpu_bytes": null
+    },
+    "by_condition": {
+      "edge_silence": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "low_volume": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "original": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      }
+    }
+  },
+  "C": {
+    "n": 8,
+    "completion_rate": 0.25,
+    "status_counts": {
+      "model_unavailable": 6,
+      "vad_skip": 2
+    },
+    "conservative_quality": {
+      "en": {
+        "S": 0,
+        "D": 111,
+        "I": 0,
+        "N": 111,
+        "error_rate": 1.0
+      }
+    },
+    "quality_claim_allowed": false,
+    "vad_false_reject_rate": 0.0,
+    "speech_empty_rate": 1.0,
+    "non_speech_output_rate_observed": 0.0,
+    "non_speech_output_rate_upper": 0.0,
+    "performance_valid": false,
+    "workload_diagnostic": {
+      "n": 8,
+      "audio_seconds": 49.615,
+      "median_s": 0.11640930001158267,
+      "p95_s": 0.2416447900119237,
+      "rtf": 0.020169279452264655,
+      "peak_gpu_bytes": null
+    },
+    "model_called_diagnostic": {
+      "n": 0,
+      "audio_seconds": 0,
+      "median_s": null,
+      "p95_s": null,
+      "rtf": null,
+      "peak_gpu_bytes": null
+    },
+    "by_condition": {
+      "edge_silence": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "low_volume": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "original": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      }
+    }
+  },
+  "D": {
+    "n": 8,
+    "completion_rate": 0.25,
+    "status_counts": {
+      "model_unavailable": 6,
+      "vad_skip": 2
+    },
+    "conservative_quality": {
+      "en": {
+        "S": 0,
+        "D": 111,
+        "I": 0,
+        "N": 111,
+        "error_rate": 1.0
+      }
+    },
+    "quality_claim_allowed": false,
+    "vad_false_reject_rate": 0.0,
+    "speech_empty_rate": 1.0,
+    "non_speech_output_rate_observed": 0.0,
+    "non_speech_output_rate_upper": 0.0,
+    "performance_valid": false,
+    "workload_diagnostic": {
+      "n": 8,
+      "audio_seconds": 49.615,
+      "median_s": 0.10362325003370643,
+      "p95_s": 0.17069878500187768,
+      "rtf": 0.01719900433575335,
+      "peak_gpu_bytes": null
+    },
+    "model_called_diagnostic": {
+      "n": 0,
+      "audio_seconds": 0,
+      "median_s": null,
+      "p95_s": null,
+      "rtf": null,
+      "peak_gpu_bytes": null
+    },
+    "by_condition": {
+      "edge_silence": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "low_volume": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      },
+      "original": {
+        "S": 0,
+        "D": 37,
+        "I": 0,
+        "N": 37,
+        "error_rate": 1.0
+      }
+    }
+  }
+}

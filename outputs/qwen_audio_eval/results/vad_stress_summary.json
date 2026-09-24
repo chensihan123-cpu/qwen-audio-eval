@@ -1,0 +1,15 @@
+{
+  "n": 12,
+  "speech": 12,
+  "non_speech": 0,
+  "speech_rejected": 0,
+  "non_speech_passed": 0,
+  "duration_s": 21.4198125,
+  "vad_median_ms": 25.145649997284636,
+  "vad_p95_ms": 131.90951001306513,
+  "preprocess_plus_vad_median_ms": 89.09110000240617,
+  "preprocess_plus_vad_p95_ms": 244.59121999389004,
+  "preprocess_plus_vad_rtf": 0.06547705774535456,
+  "model_time": null,
+  "scope": "Post-freeze diagnostic only; altered short samples pending listening review; excluded from core test and formal ASR"
+}

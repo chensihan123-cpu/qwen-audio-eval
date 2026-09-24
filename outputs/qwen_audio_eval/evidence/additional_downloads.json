@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://huggingface.co/datasets/hf-internal-testing/librispeech_asr_dummy/raw/main/README.md",
+    "bytes": 520,
+    "sha256": "6dbe952b754683b66cca6883d2afcccda3b4584358158a0f4b2e4855b180df77"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/snakers4/silero-vad/master/README.md",
+    "bytes": 9725,
+    "sha256": "cd0ee56c91b8042e62a714c0c94bc8b74dbea127a483e390f8033bb8ec8cec78"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/snakers4/silero-vad/master/LICENSE",
+    "bytes": 1075,
+    "sha256": "2e63e9a38b6e8fc0c7bc37ce174caca1862870856c6daf5697cfb785e925520b"
+  }
+]

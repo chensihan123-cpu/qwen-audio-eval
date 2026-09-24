@@ -1,0 +1,5 @@
+W0924 21:03:46.041000 134584 site-packages\torch\distributed\elastic\multiprocessing\redirects.py:29] NOTE: Redirects are currently not supported in Windows or MacOs.
+
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]
+audio_start_id: 155163, audio_end_id: 155164, audio_pad_id: 151851.

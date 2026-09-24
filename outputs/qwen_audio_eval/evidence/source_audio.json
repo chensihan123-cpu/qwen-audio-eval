@@ -1,0 +1,62 @@
+[
+  {
+    "sample_id": "1272-128104-0000",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/128104/1272-128104-0000.flac",
+    "saved_path": "data\\original\\1272-128104-0000.flac",
+    "bytes": 120041,
+    "sha256": "4e25e22555cd16e90edb0a3b49fdcf1fe652b2a1250ab643634db33895c75b41",
+    "transcript": "MISTER QUILTER IS THE APOSTLE OF THE MIDDLE CLASSES AND WE ARE GLAD TO WELCOME HIS GOSPEL",
+    "speaker_id": 1272,
+    "chapter_id": 128104
+  },
+  {
+    "sample_id": "1272-141231-0001",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/141231/1272-141231-0001.flac",
+    "saved_path": "data\\original\\1272-141231-0001.flac",
+    "bytes": 129876,
+    "sha256": "5ec33d1ae2a06430ddd4faa6090673f7dbb09f71405ce401a08301eedb313275",
+    "transcript": "SWEAT COVERED BRION'S BODY TRICKLING INTO THE TIGHT LOINCLOTH THAT WAS THE ONLY GARMENT HE WORE",
+    "speaker_id": 1272,
+    "chapter_id": 141231
+  },
+  {
+    "sample_id": "1272-141231-0010",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/141231/1272-141231-0010.flac",
+    "saved_path": "data\\original\\1272-141231-0010.flac",
+    "bytes": 203344,
+    "sha256": "b0316adbccaff2af04f6d397c03905f157a6b2418a9b54e88a16d5859b000211",
+    "transcript": "PARTICULARLY SO ON THIS LAST NIGHT WHEN ONLY TWO OF THE LITTLE CUBICLES WERE OCCUPIED THE THOUSANDS OF OTHERS STANDING WITH DARK EMPTY DOORS",
+    "speaker_id": 1272,
+    "chapter_id": 141231
+  },
+  {
+    "sample_id": "1272-141231-0022",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/141231/1272-141231-0022.flac",
+    "saved_path": "data\\original\\1272-141231-0022.flac",
+    "bytes": 164782,
+    "sha256": "6fca2f211411ffd83f84ccfe38ac1434a83ba02497c68cd1819cb63da57fb3a4",
+    "transcript": "THERE APPEARED TO BE AN IMMEDIATE ASSOCIATION WITH THE DEATH TRAUMA AS IF THE TWO WERE INEXTRICABLY LINKED INTO ONE",
+    "speaker_id": 1272,
+    "chapter_id": 141231
+  },
+  {
+    "sample_id": "1272-141231-0028",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/141231/1272-141231-0028.flac",
+    "saved_path": "data\\original\\1272-141231-0028.flac",
+    "bytes": 108857,
+    "sha256": "a6833433f5c62c5ffae8a368811c507dde2401d3ff7e9669a492c150f6afe8d4",
+    "transcript": "IROLG LOOKED AMAZED AT THE SUDDEN FURY OF THE ATTACK THEN SMILED",
+    "speaker_id": 1272,
+    "chapter_id": 141231
+  },
+  {
+    "sample_id": "1272-141231-0030",
+    "source_path": "/Users/sanchitgandhi/.cache/huggingface/datasets/downloads/extracted/aad76e6f21870761d7a8b9b34436f6f8db846546c68cb2d9388598d7a164fa4b/dev_clean/1272/141231/1272-141231-0030.flac",
+    "saved_path": "data\\original\\1272-141231-0030.flac",
+    "bytes": 142587,
+    "sha256": "f65aeae1485f33072d636c36ad06ae205627f59619b2113a0c91d91126afed3e",
+    "transcript": "BRION SAW SOMETHING CLOSE TO PANIC ON HIS OPPONENT'S FACE WHEN THE MAN FINALLY RECOGNIZED HIS ERROR",
+    "speaker_id": 1272,
+    "chapter_id": 141231
+  }
+]

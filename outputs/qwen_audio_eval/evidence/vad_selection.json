@@ -1,0 +1,49 @@
+{
+  "dev": {
+    "0.3": {
+      "n": 8,
+      "speech": 6,
+      "non_speech": 2,
+      "speech_rejected": 0,
+      "non_speech_passed": 0,
+      "duration_s": 49.615,
+      "vad_median_ms": 43.73365003266372,
+      "vad_p95_ms": 62.27957997762132,
+      "preprocess_plus_vad_median_ms": 84.2702999652829,
+      "preprocess_plus_vad_p95_ms": 166.05704998364666,
+      "preprocess_plus_vad_rtf": 0.014971093418063306,
+      "model_time": null
+    },
+    "0.5": {
+      "n": 8,
+      "speech": 6,
+      "non_speech": 2,
+      "speech_rejected": 0,
+      "non_speech_passed": 0,
+      "duration_s": 49.615,
+      "vad_median_ms": 88.46199998515658,
+      "vad_p95_ms": 126.74286000546996,
+      "preprocess_plus_vad_median_ms": 159.94149999460205,
+      "preprocess_plus_vad_p95_ms": 194.4069249671884,
+      "preprocess_plus_vad_rtf": 0.023492345056420255,
+      "model_time": null
+    },
+    "0.7": {
+      "n": 8,
+      "speech": 6,
+      "non_speech": 2,
+      "speech_rejected": 0,
+      "non_speech_passed": 0,
+      "duration_s": 49.615,
+      "vad_median_ms": 37.43080000276677,
+      "vad_p95_ms": 53.708275017561384,
+      "preprocess_plus_vad_median_ms": 79.16024999576621,
+      "preprocess_plus_vad_p95_ms": 92.01936000026761,
+      "preprocess_plus_vad_rtf": 0.011793929256135031,
+      "model_time": null
+    }
+  },
+  "chosen_threshold": 0.5,
+  "rule": "min speech rejects, min non-speech passes, tie nearest 0.5; synthetic dev only",
+  "test_not_seen": true
+}

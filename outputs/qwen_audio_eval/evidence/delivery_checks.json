@@ -1,0 +1,28 @@
+{
+  "changed_config_resume_rejected": {
+    "passed": true,
+    "returncode": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 209, in <module>\n    if __name__=='__main__': main()\n                             ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 208, in main\n    a=p.parse_args(); run(a) if a.cmd=='run' else summary(a)\n                      ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 143, in run\n    if previous[0]['cache_key']!=key: raise ValueError('stale resume: configuration/audio/code changed; use new output')\n                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: stale resume: configuration/audio/code changed; use new output\n"
+  },
+  "unfrozen_test_rejected": {
+    "passed": true,
+    "returncode": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 209, in <module>\n    if __name__=='__main__': main()\n                             ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 208, in main\n    a=p.parse_args(); run(a) if a.cmd=='run' else summary(a)\n                      ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 112, in run\n    if args.split=='test' and not cfg.get('frozen'): raise ValueError('freeze configuration before test')\n                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: freeze configuration before test\n"
+  },
+  "vad_only_freeze_cannot_unlock_qwen_test": {
+    "passed": true,
+    "returncode": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 209, in <module>\n    if __name__=='__main__': main()\n                             ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 208, in main\n    a=p.parse_args(); run(a) if a.cmd=='run' else summary(a)\n                      ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 113, in run\n    if args.split=='test' and not args.vad_only and not cfg.get('prompt_selection_complete'): raise ValueError('Qwen prompt selection on dev is incomplete')\n                                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Qwen prompt selection on dev is incomplete\n"
+  },
+  "performance_resume_rejected": {
+    "passed": true,
+    "returncode": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 209, in <module>\n    if __name__=='__main__': main()\n                             ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 208, in main\n    a=p.parse_args(); run(a) if a.cmd=='run' else summary(a)\n                      ^^^^^^\n  File \"C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\pipeline.py\", line 116, in run\n    if args.resume and args.performance: raise ValueError('performance requires fresh output, no resume/cache')\n                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: performance requires fresh output, no resume/cache\n"
+  },
+  "artifact_integrity": {
+    "passed": true,
+    "dev_abcd_records": 32,
+    "smoke_samples": 24,
+    "real_model_predictions": 0
+  }
+}

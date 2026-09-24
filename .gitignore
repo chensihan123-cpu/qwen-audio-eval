@@ -1,0 +1,12 @@
+work/
+**/__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+outputs/*.zip
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx

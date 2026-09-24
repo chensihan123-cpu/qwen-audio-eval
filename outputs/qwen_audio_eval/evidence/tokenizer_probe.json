@@ -1,0 +1,1 @@
+{"status": "success", "query": "Audio 1:<audio>C:\\Users\\DELL\\Documents\\Codex\\2026-09-24\\qwen-audio-qwen-audio-https-github\\outputs\\qwen_audio_eval\\data\\1272-128104-0000_original.wav</audio>\nPlease transcribe the speech.", "input_tokens": 159, "mel_shape": [1, 80, 3000], "no_model_forward": true}

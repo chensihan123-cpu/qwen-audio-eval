@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-09-24T13:03:22.722988+00:00",
+  "python": "3.12.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch": "2.7.0+cpu",
+  "torch_cuda": null,
+  "cuda_available": false,
+  "memory": {
+    "total": 16849256448,
+    "available": 1089183744,
+    "percent": 93.5,
+    "used": 15760072704,
+    "free": 1089183744
+  },
+  "packages": {
+    "torch": "2.7.0",
+    "torchaudio": "2.7.0+cpu",
+    "transformers": "4.37.2",
+    "accelerate": "0.30.1",
+    "silero-vad": "6.2.0",
+    "onnxruntime": "1.23.2",
+    "numpy": "1.26.4",
+    "soundfile": "0.13.1",
+    "librosa": "0.11.0"
+  }
+}

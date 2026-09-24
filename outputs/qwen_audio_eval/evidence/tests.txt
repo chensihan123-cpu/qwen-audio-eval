@@ -1,0 +1,15 @@
+test_alignment (test_metrics.MetricsTests.test_alignment) ... ok
+test_audio_validation_and_long_routing (test_metrics.MetricsTests.test_audio_validation_and_long_routing) ... ok
+test_cache_invalidation (test_metrics.MetricsTests.test_cache_invalidation) ... ok
+test_chinese (test_metrics.MetricsTests.test_chinese) ... ok
+test_corpus_not_sentence_mean (test_metrics.MetricsTests.test_corpus_not_sentence_mean) ... ok
+test_empty_reference (test_metrics.MetricsTests.test_empty_reference) ... ok
+test_marker (test_metrics.MetricsTests.test_marker) ... ok
+test_parent_split_leak (test_metrics.MetricsTests.test_parent_split_leak) ... ok
+test_sdi (test_metrics.MetricsTests.test_sdi) ... ok
+test_skip_and_failure (test_metrics.MetricsTests.test_skip_and_failure) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.037s
+
+OK

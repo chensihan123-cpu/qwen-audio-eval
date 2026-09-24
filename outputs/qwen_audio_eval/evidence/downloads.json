@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/config.json",
+    "bytes": 1256,
+    "sha256": "fdeb34cab84ee4fa7cf6161e5a4da1845de97aa7a2dcb23a277a244e233bdbac"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/configuration_qwen.py",
+    "bytes": 2345,
+    "sha256": "74626181ddd5c9c40accdbb93fc45007cb2278179a32504f32bd82ffb4336e2c"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/modeling_qwen.py",
+    "bytes": 58312,
+    "sha256": "32b3aaf6775c5a65df7025b76ace1ebabe01a65eea1dedba47d04d25ce3ca2cc"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/tokenization_qwen.py",
+    "bytes": 22808,
+    "sha256": "fed6ea7d9c0e14a52e9b28f966c44c00f573b41592b55c832c9a5323ec85f829"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/audio.py",
+    "bytes": 14960,
+    "sha256": "dc020148f4b3cb99a26f62c4a5a42a1b20d6c1f558d850cb36069885a4489ac9"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/qwen_generation_utils.py",
+    "bytes": 15416,
+    "sha256": "5d3a7c57606ed7bc7f742c67be4347293bb421c072296e8df699e3e56b90e3d4"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/cpp_kernels.py",
+    "bytes": 1923,
+    "sha256": "b476df099a93a00d8333f6e050952eab9ccbb62109d8f74a0023b488cfdbaeaa"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/generation_config.json",
+    "bytes": 221,
+    "sha256": "c8562073de6785ee3e84cfdb342abdb3558eb879dffd009f3102510c1bcc7dbf"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/tokenizer_config.json",
+    "bytes": 211,
+    "sha256": "0ec89a441dd68f18be3d67470742141bc2a5af6db3c21414d28999899392a37d"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/qwen.tiktoken",
+    "bytes": 2561218,
+    "sha256": "b2b1b8dfb5cc5f024bafc373121c6aba3f66f9a5a0269e243470a1de16a33186"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/mel_filters.npz",
+    "bytes": 2048,
+    "sha256": "dd2cc75e70e36fcbdd8ffbc2499062f30094093e6bf2cbafa9859f59972b420b"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/model.safetensors.index.json",
+    "bytes": 61145,
+    "sha256": "0ac29b479b1a4c9677ac34859724b9195227f295bfe332768ed58eb5baa0141b"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen-Audio-Chat/resolve/8b1c0dc720d34da5498f93535f416e3590bf3a71/LICENSE",
+    "bytes": 6909,
+    "sha256": "811001bdf710e4d75d600b5f6f49f0507ab423b1dc503d809e5f806c83afc88e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/README_CN.md",
+    "bytes": 23312,
+    "sha256": "93f1f2a5cd71182e87f9e048c9aa1a5c3ada8b72e1639cff49345011e24cf38d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/requirements.txt",
+    "bytes": 133,
+    "sha256": "965b4b721443cb41ff8e91cac592f93f2b4c509f276a0eb359acf7ff5dadea6d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/eval_audio/EVALUATION.md",
+    "bytes": 6589,
+    "sha256": "ca82c9b70b8f4fd6b0688d3541f6710051cd4e514896b16fdde2827517e2ea22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/eval_audio/evaluate_asr.py",
+    "bytes": 9077,
+    "sha256": "95c2388b5487f92853eb49418ff2e4286894675342ca33be5056846164e77caf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/audio.py",
+    "bytes": 14960,
+    "sha256": "dc020148f4b3cb99a26f62c4a5a42a1b20d6c1f558d850cb36069885a4489ac9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/modeling_qwen.py",
+    "bytes": 58348,
+    "sha256": "3ac7b938eb36f093c1f5e2722ad9b2cbbbeea118c6a4364936b38cd8ddfb0389"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/tokenization_qwen.py",
+    "bytes": 22932,
+    "sha256": "e9fadf4d5a13168ff94b3bb0a402fb3f459d439fc74272fb24c650c4fb733dd9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/qwen_generation_utils.py",
+    "bytes": 15416,
+    "sha256": "5d3a7c57606ed7bc7f742c67be4347293bb421c072296e8df699e3e56b90e3d4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/QwenLM/Qwen-Audio/b50fb958438081d36e1a14e93dbbc2f329c7f10e/LICENSE",
+    "bytes": 6909,
+    "sha256": "811001bdf710e4d75d600b5f6f49f0507ab423b1dc503d809e5f806c83afc88e"
+  }
+]

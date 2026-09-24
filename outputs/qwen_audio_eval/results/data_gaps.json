@@ -1,0 +1,7 @@
+{
+  "chinese_speech": "0 available; target 200",
+  "english_speech": "10 unique recordings, 30 waveform entries including variants; target 200 independently labeled items",
+  "real_non_speech": "0 available; target 200; need manually checked silence/environment/instrumental/mechanical audio",
+  "boundary": "singing/TV voices/very low intelligibility missing",
+  "formal_600": "not completed"
+}
